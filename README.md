@@ -3,6 +3,7 @@ Simple Pattern Printing in Python
 
 # Output
 
+```
 1
 12
 123
@@ -10,3 +11,4 @@ Simple Pattern Printing in Python
 12345
 123456
 1234567
+```
